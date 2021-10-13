@@ -1,16 +1,36 @@
-### Hi there 👋
 
-<!--
-**megas-vanzi/megas-vanzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, I’m Mégas Vanzillotta, Full Stack Dev
 
-Here are some ideas to get you started:
+- 🌱 Right now I’m learning
+ 
+✔ React Native
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✔ TypeScript
+
+✔ GraphQL
+
+- 🔭 I’m currently working on my first Mobile App
+
+- 📫 How to reach me: Just [write me an email](mailto:megas.vanzi@gmail.com)
+
+---
+
+### Skills & Tools
+
+ ![HTML](https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor)
+ ![CSS](https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor)
+ ![JS](https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor)
+
+ ![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=80&color=currentColor)
+ ![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=80&color=6569d7)
+ ![Express](https://icongr.am/devicon/express-original-wordmark.svg?size=80&color=currentColor)
+ ![React](https://icongr.am/devicon/react-original.svg?size=80&color=currentColor)
+ ![nodeJS](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=80&color=6569d7)
+
+ ![GIT](https://icongr.am/devicon/git-original.svg?size=80&color=currentColor)
+ ![npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=80&color=currentColor)
+ ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg?size=80)
+
+---
+
+✨ *Thanks for visiting!* ✨
