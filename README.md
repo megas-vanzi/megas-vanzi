@@ -7,7 +7,6 @@
 
 ✔ TypeScript
 
-✔ GraphQL
 
 - 🔭 I’m currently working on my first Mobile App
 
