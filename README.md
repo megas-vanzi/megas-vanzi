@@ -3,12 +3,10 @@
 
 - 🌱 Right now I’m learning
  
-✔ React Native
-
 ✔ TypeScript
 
 
-- 🔭 I’m currently working on my first Mobile App
+- 🔭 I’m currently working on some projects
 
 - 📫 How to reach me: Just [write me an email](mailto:megas.vanzi@gmail.com)
 
