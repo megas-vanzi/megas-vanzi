@@ -1,9 +1,11 @@
 
-### Hi there 👋, I’m Mégas Vanzillotta, Full Stack Dev
+### Hi there 👋, I’m Mégas Vanzillotta,
 
 - 🌱 Right now I’m learning
  
-✔ TypeScript
+✔ Angular
+
+✔ Spring Boot
 
 
 - 🔭 I’m currently working on some projects
