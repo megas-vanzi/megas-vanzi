@@ -3,9 +3,7 @@
 
 - 🌱 Right now I’m learning
  
-✔ Angular
-
-✔ Spring Boot
+✔ Golang
 
 
 - 🔭 I’m currently working on some projects
@@ -15,10 +13,6 @@
 ---
 
 ### Skills & Tools
-
- ![HTML](https://icongr.am/devicon/html5-original.svg?size=80&color=currentColor)
- ![CSS](https://icongr.am/devicon/css3-original.svg?size=80&color=currentColor)
- ![JS](https://icongr.am/devicon/javascript-original.svg?size=80&color=currentColor)
 
  ![PostgreSQL](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=80&color=currentColor)
  ![MongoDB](https://icongr.am/devicon/mongodb-original-wordmark.svg?size=80&color=6569d7)
